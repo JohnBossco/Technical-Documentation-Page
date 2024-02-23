@@ -1,5 +1,4 @@
-#This is Technical Documentation page that has informatrion over 
-
+#This is a Technical Documentation page that has information over C++ language and gives detailed and insight knowlgede of the proggramming languge.
 
 
 ![msedge_90oOGzB5e4](https://github.com/JohnBossco/Technical-Documentation-Page/assets/108234177/c7b82b3a-cd64-4e19-83c2-80c106ea9f29)
